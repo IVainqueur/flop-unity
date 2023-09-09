@@ -8,3 +8,4 @@ There are 3 ways to make the bird move:
 - Click the screen (left click)
 - Touching the screen
 
+![Flop DEMO](/screenshots/flopDemo.gif)
