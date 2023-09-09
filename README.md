@@ -1,5 +1,5 @@
 # Flop
-I wanted to make a Floppy Bird clone but ended up just giving up at the beggining. So in a way, you could say that it was a **flop**.
+I wanted to make a Floppy Bird clone but ended up just giving up at the beggining. So in a way, you could say that it was a `flop`.
 
 ## How to play
 
